@@ -1,0 +1,101 @@
+patient_id,department,length_of_stay,emergency_case
+1,General Medicine,10,No
+2,General Medicine,6,Yes
+3,Emergency,10,Yes
+4,Emergency,3,Yes
+5,Cardiology,8,No
+6,Cardiology,14,Yes
+7,Orthopedics,8,Yes
+8,Cardiology,2,No
+9,General Medicine,6,No
+10,Emergency,7,Yes
+11,Cardiology,2,Yes
+12,Cardiology,11,No
+13,Orthopedics,10,No
+14,Orthopedics,2,No
+15,General Medicine,10,No
+16,Emergency,1,No
+17,Orthopedics,8,Yes
+18,Cardiology,1,No
+19,Emergency,9,Yes
+20,Emergency,11,Yes
+21,Cardiology,6,Yes
+22,Orthopedics,7,No
+23,Cardiology,13,Yes
+24,Emergency,10,Yes
+25,Pediatrics,7,No
+26,Pediatrics,10,Yes
+27,General Medicine,3,Yes
+28,Cardiology,2,No
+29,Cardiology,9,Yes
+30,General Medicine,8,Yes
+31,General Medicine,13,Yes
+32,General Medicine,12,No
+33,Emergency,10,No
+34,Cardiology,7,No
+35,Emergency,9,Yes
+36,General Medicine,4,Yes
+37,Cardiology,13,No
+38,Emergency,4,Yes
+39,Emergency,1,Yes
+40,General Medicine,8,No
+41,Cardiology,14,No
+42,General Medicine,14,Yes
+43,Cardiology,12,Yes
+44,Pediatrics,3,Yes
+45,Orthopedics,7,No
+46,Orthopedics,12,No
+47,Orthopedics,2,No
+48,General Medicine,2,No
+49,Pediatrics,7,Yes
+50,Cardiology,6,No
+51,Emergency,3,No
+52,Cardiology,9,No
+53,Emergency,10,No
+54,Cardiology,14,No
+55,Pediatrics,13,Yes
+56,Emergency,6,Yes
+57,General Medicine,10,No
+58,Cardiology,10,Yes
+59,Cardiology,6,No
+60,Emergency,1,No
+61,General Medicine,4,Yes
+62,General Medicine,10,Yes
+63,Pediatrics,6,No
+64,General Medicine,6,No
+65,General Medicine,11,No
+66,General Medicine,12,Yes
+67,Orthopedics,5,No
+68,Pediatrics,1,No
+69,Cardiology,8,No
+70,Emergency,5,Yes
+71,Cardiology,12,No
+72,Pediatrics,12,No
+73,Emergency,12,Yes
+74,Pediatrics,5,No
+75,General Medicine,7,No
+76,Emergency,4,Yes
+77,General Medicine,6,No
+78,Cardiology,13,Yes
+79,Cardiology,4,Yes
+80,Emergency,14,No
+81,Emergency,3,No
+82,Pediatrics,7,No
+83,Pediatrics,8,No
+84,General Medicine,4,Yes
+85,Emergency,13,No
+86,Cardiology,2,Yes
+87,Pediatrics,12,No
+88,Pediatrics,10,No
+89,Cardiology,14,No
+90,Pediatrics,3,Yes
+91,General Medicine,1,No
+92,Emergency,8,No
+93,Cardiology,3,No
+94,Emergency,12,No
+95,Pediatrics,10,Yes
+96,Pediatrics,7,No
+97,Cardiology,10,Yes
+98,General Medicine,5,Yes
+99,Orthopedics,10,Yes
+100,Cardiology,5,Yes
